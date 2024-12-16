@@ -15,3 +15,7 @@ A simple, classic Pong game recreated using Python. This project demonstrates fu
    cd pong_game
 
 2. Run the game
+   ```bash
+   # Example for Python
+   python pong_game.py
+
