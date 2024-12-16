@@ -13,3 +13,5 @@ A simple, classic Pong game recreated using Python. This project demonstrates fu
    ```bash
    git clone https://github.com/YOUR_USERNAME/pong_game.git
    cd pong_game
+
+2. Run the game
